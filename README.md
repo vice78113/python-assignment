@@ -162,25 +162,7 @@ column listing all detected issues.
 
 
 
-2\. Run the program from the command line:
-
-
-
-
-
-
-
-```bash
-
-
-
-python checker.py
-
-
-
-
-
-
+2\. Run the program.
 
 3. The program generates report.csv and prints a short summary to the console.
 
