@@ -41,8 +41,3 @@ This program was developed for educational purposes as part of a university assi
 
 It is not designed for production use.
 
-## DOI
-
-https://doi.org/10.5281/zenodo.17913582 
-
-
