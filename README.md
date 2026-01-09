@@ -154,7 +154,7 @@ column listing all detected issues.
 
 
 
-
+&nbsp;
 
 
 
@@ -172,8 +172,7 @@ column listing all detected issues.
 
 
 
-## Context
-
+\## Context 
 
 
 
@@ -193,18 +192,7 @@ It is not designed for production use.
 
 
 
-
-
-
-
-
-
-
 ## DOI
-
-
-
-
 
 
 
