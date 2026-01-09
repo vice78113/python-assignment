@@ -182,7 +182,7 @@ python checker.py
 
 
 
-3\. The program generates report.csv and prints a short summary to the console.
+3. The program generates report.csv and prints a short summary to the console.
 
 
 
@@ -190,7 +190,7 @@ python checker.py
 
 
 
-\## Context
+## Context
 
 
 
@@ -218,7 +218,7 @@ It is not designed for production use.
 
 
 
-\## DOI
+## DOI
 
 
 
@@ -227,4 +227,5 @@ It is not designed for production use.
 
 
 https://doi.org/10.5281/zenodo.17913582
+
 
